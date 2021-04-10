@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "548318098423",
+    "project_id": "mapsbutton-309812",
+    "storage_bucket": "mapsbutton-309812.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548318098423:android:3bed020514bf6eae8cf4f2",
+        "android_client_info": {
+          "package_name": "com.example.emergencybutton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548318098423-6ii0hto6l8h86mgrqkvt5iildsb3gfoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR6apqG2ByOxCq4dWLbPRy8szivUDhW0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548318098423-6ii0hto6l8h86mgrqkvt5iildsb3gfoj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
