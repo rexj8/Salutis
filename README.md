@@ -4,9 +4,11 @@
 
 <a href="https://hack36.com"> <img src="http://bit.ly/BuiltAtHack36" height=20px> </a>
 
+Video- https://www.youtube.com/watch?v=dK8scQiPIQE
+
 
 ## Introduction:
-In mishappening situations, generally everyone of us shouts or screams. So this app will detect screams and if scream is detected then automaticaly it will call the Police and also live tracking will start on both victim relative's devices and on police display. Police can also track all the victim's location at a time.
+In mis happening situations, generally everyone of us shouts or screams. So this app will detect screams and if scream is detected then automatically it will call the Police and also live tracking will start on both victim relative's devices and on police display. Police can also track all the victim's location at a time.
 
 ## Table of Contents:
 1. Wow Factor!!
@@ -28,6 +30,7 @@ In mishappening situations, generally everyone of us shouts or screams. So this 
   1) Flutter
   2) TensorFlow lite
   3) Firebase
+  4) Google Maps API
   
 ## Implementation
   * While travelling, if you don’t feel safe turn on the feature in the app
