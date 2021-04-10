@@ -6,6 +6,8 @@
 
 Video- https://www.youtube.com/watch?v=dK8scQiPIQE
 
+PPT- https://github.com/rexj8/Salutis/blob/main/Hack36%20ppt.pptx
+
 
 ## Introduction:
 In mis happening situations, generally everyone of us shouts or screams. So this app will detect screams and if scream is detected then automatically it will call the Police and also live tracking will start on both victim relative's devices and on police display. Police can also track all the victim's location at a time.
