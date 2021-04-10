@@ -7,8 +7,15 @@
 
 ## Introduction:
 In mishappening situations, generally everyone of us shouts or screams. So this app will detect screams and if scream is detected then automaticaly it will call the Police and also live tracking will start on both victim relative's devices and on police display. Police can also track all the victim's location at a time.
+
+## Table of Contents:
+1. Wow Factor!!
+2. Technology Stack
+3. Implementation
+4. Contributors
+5. App Preview
   
-## WoW Factor:
+## WoW Factor!!:
   1) Detects Scream
   2) Tracked by Relatives
   3) Tracked by police personnel’s
@@ -58,3 +65,5 @@ Team Name: THREE Duckies
 ### Provides Shortest Path to help victim
 ![image](https://user-images.githubusercontent.com/44037733/114281519-6f4e4000-9a5c-11eb-8d30-9b0bf1ceb8ae.png)
 
+### Made at:
+<a href="https://hack36.com"> <img src="http://bit.ly/BuiltAtHack36" height=20px> </a>
