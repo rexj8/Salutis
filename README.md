@@ -21,3 +21,12 @@ In mishappening situations, generally everyone of us shouts or screams. So this 
   
 
 ## Contributors:
+
+Team Name: THREE Duckies
+
+* [Rachit](https://github.com/rexj8)
+* [Vinay Kumar](https://github.com/DR-NEGATIVE)
+* [Yash Mathur](https://github.com/themockingjester)
+
+### Made at:
+<a href="https://hack36.com"> <img src="http://bit.ly/BuiltAtHack36" height=20px> </a>
