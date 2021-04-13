@@ -11,7 +11,7 @@
         android:label="SALUTIS"
         android:icon="@mipmap/ic_launcher">
         <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyDVE-knEX9gQpK0SOCeR98VZMamZYHIAK0"/>
+               android:value="YourKey"/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
