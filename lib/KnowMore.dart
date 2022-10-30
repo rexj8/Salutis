@@ -32,8 +32,11 @@ class _KnowMoreState extends State<KnowMore> {
         Name = val.docs[0].data()['userName'];
         x = val.docs[0].data()['x'];
         y = val.docs[0].data()['y'];
+        // phone number -1
         ph1 = val.docs[0].data()['ph1'];
+        // phone number -2
         ph2 = val.docs[0].data()['ph2'];
+        // phone number -3
         ph3 = val.docs[0].data()['ph3'];
         isloading = false;
       });
